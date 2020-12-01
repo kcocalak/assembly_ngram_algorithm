@@ -1,0 +1,4 @@
+3	martha	marhta
+2	numerator	denominator
+4	development	enhancement
+3	enver	enverloppe
